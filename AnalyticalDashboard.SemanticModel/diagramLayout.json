@@ -1,0 +1,90 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "inpatient",
+          "nodeLineageTag": "bdf09699-a063-4ddd-9142-c4f16a50e4e1",
+          "size": {
+            "height": 104,
+            "width": 169
+          },
+          "zIndex": 1,
+          "expandedHeight": 272
+        },
+        {
+          "location": {
+            "x": 185,
+            "y": 0
+          },
+          "nodeIndex": "outpatient",
+          "nodeLineageTag": "dc980640-3e3c-4958-a4da-c9f312c2f08f",
+          "size": {
+            "height": 104,
+            "width": 169
+          },
+          "zIndex": 2,
+          "expandedHeight": 248
+        },
+        {
+          "location": {
+            "x": 370,
+            "y": 0
+          },
+          "nodeIndex": "all_data",
+          "nodeLineageTag": "43e84be1-1eaf-46a9-b5ce-99e9ee5e5fb2",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 267
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 148
+          },
+          "nodeIndex": "specialityMap",
+          "nodeLineageTag": "a1d6e208-5f52-44cd-ac2a-b988f78b424c",
+          "size": {
+            "height": 145,
+            "width": 186
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 654,
+            "y": 94.5
+          },
+          "nodeIndex": "calculations",
+          "nodeLineageTag": "6f346317-bcf2-4a98-97b5-68634f1f42d5",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
