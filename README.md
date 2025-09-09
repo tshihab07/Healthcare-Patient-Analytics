@@ -1,4 +1,5 @@
 # Healthcare Patient Flow and Wait Time Report
+This Power BI-powered Healthcare Patient Flow and Wait Time Report is a dynamic analytical dashboard designed to provide healthcare administrators, clinic managers, and operations teams with real-time visibility into patient movement and service efficiency. By visualizing key metrics such as patient arrival rates, wait times by department, consultation durations, and discharge bottlenecks, this dashboard transforms raw operational data into actionable insights.
 
 ## Table of Contents
 
@@ -240,5 +241,4 @@ LinkedIn: [Tushar Shihab](https://www.linkedin.com/in/tshihab07/)
 
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
